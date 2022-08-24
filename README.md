@@ -1,1 +1,1 @@
-# OTUS_02.homework
+# otus-cpp
